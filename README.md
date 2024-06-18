@@ -56,7 +56,7 @@ This repository provides a comprehensive system for IMU-based position tracking 
 
 ### Based on our observations:
 
-For distances up to 10 meters, the system achieved an accuracy of 73% with a deviation of ±2.02 meters.
+For distances up to 10 metres, the system achieved an accuracy of 73% with a deviation of ±2.02 meters.
 
 ## Future Work 🧭
 
