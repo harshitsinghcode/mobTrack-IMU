@@ -2,6 +2,10 @@
 
 Explore the potential of your mobile device's IMU sensor + monocular camera with mobTrack. This repository hosts a comprehensive solution for accurate position tracking, enabling a wide range of applications in robotics, AR, VR, and beyond.
 
+## Motivation 🌟
+
+As a team at **IIT Madras**, we are driven by the challenge of accurately determining the scale of objects using photogrammetry methods. While we can capture frames of these objects, obtaining precise positional data remains a critical aspect of our research. This endeavor serves as a crucial component in our broader goal of advancing understanding and application of photogrammetry techniques.
+
 ## Overview 📝
 
 This repository provides a comprehensive system for IMU-based position tracking using accelerometer data from your mobile device. Here's a breakdown of how it works:
