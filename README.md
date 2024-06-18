@@ -6,7 +6,7 @@ Explore the potential of your mobile device's IMU sensor + monocular camera with
 
 This repository provides a comprehensive system for IMU-based position tracking using accelerometer data from your mobile device. Here's a breakdown of how it works:
 
-1. **Data Acquisition**: We capture accelerometer data from both Android and iOS devices using the "Serializer Sensor" and "IMU-Utility" apps, respectively. Android data is converted to CSV format and stored in the `1. Accelerations` folder, while iOS data is converted from JSON to CSV and stored in the same folder.
+1. **Data Acquisition**: We capture accelerometer data  from IMU sensor (in thsi case - `Ic4n607`) with both Android and iOS devices by "Serializer Sensor" and "IMU-Utility" apps, respectively. Android data is converted to CSV format and stored in the `1. Accelerations` folder, while iOS data is converted from JSON to CSV and stored in the same folder.
 
 2. **Calibration**: Calibration is essential for accurate tracking. Our system offers two calibration methods:
    1. Manual Calibration: Use a dedicated app to calibrate the IMU sensor manually.
