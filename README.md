@@ -26,6 +26,8 @@ This repository provides a comprehensive system for IMU-based position tracking 
    
    d. Interesting part of the repository is that, it also stores the frame captured at the moment with respect to imu recordings in `pics` folder, so that the imu data of every frame has been recorded which can be further used for varied applications.
    
+   ![image](https://github.com/harshitsinghcode/mobTrack-IMU/assets/110082422/b02408b7-343f-4d58-91ef-4b4e53cd755c)
+
 ## Getting Started 🚀
 
 - To use this system, follow these steps:
